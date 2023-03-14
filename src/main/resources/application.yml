@@ -1,8 +1,8 @@
 server:
   port: 8080
 wx-config:
-  appId: ***********
-  appSecret: ***********
+  appId: wxe62e23fb218a44d8
+  appSecret: b24cc60279dffd6e3e2c898f4647e7e2
   checkToken: ***********
 
 chatgpt-config:
